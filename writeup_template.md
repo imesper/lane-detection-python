@@ -28,6 +28,7 @@ The goals / steps of this project are the following:
 [imageRegionColorMask]: ./test_images_output/region5.png "Grayscale"
 [imageRegion]: ./test_images_output/regionFull5.png "Grayscale"
 [imageFinalColorMask]: ./test_images_output/final5.png "Grayscale"
+
 ---
 
 ### Reflection
