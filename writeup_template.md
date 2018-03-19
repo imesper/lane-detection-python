@@ -74,6 +74,7 @@ The second step is to extract yellow information from the image, this was a litt
 
 ```python
 def yellow_mask(original):
+    # Taken from http://aishack.in/tutorials/tracking-colored-objects-opencv/
     HSV = cv2.cvtColor(original, cv2.COLOR_RGB2HSV)
 
     lowerHSV = np.array([10, 100, 100])
